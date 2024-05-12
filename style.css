@@ -4,6 +4,12 @@ body{
     background-color: blanchedalmond;
     padding-top: 50px;
 }
+p{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
 nav{
     margin-top: 50px;
     margin-bottom: 50px;
